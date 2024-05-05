@@ -1,0 +1,43 @@
+footer {
+    min-height: 100px;
+    padding: 10px ;
+}
+
+footer .container div a {
+    padding: 0 16px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.ytIcon:hover {
+    color: red;
+}
+
+.fsIcon:hover {
+    color: rgb(0, 68, 255);
+}
+
+.xIcon:hover {
+    color: black;
+}
+
+.mydetails {
+    width: 10%;
+    width:300px;
+    height: 100px;
+}
+
+@media (max-width:768px)
+{
+
+    footer .container div a{
+        display: flex;
+        padding: 6px 16px;
+        text-decoration: none;
+        justify-content: space-around;
+    }
+
+
+}

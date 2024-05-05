@@ -1,0 +1,454 @@
+ [
+    {
+        "id": 1,
+        "name": "Alice Walton",
+        "worth": "$74.6B",
+        "birth_year": "1949",
+        "source": "Walmart",
+        "country": "USA",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/5c7ef270a7ea434b351bca52/0x0.jpg?format=jpg&crop=766,766,x232,y222,safe&height=416&width=416&fit=bounds",
+        "occupation": "Businesswoman",
+        "industry": "Retail",
+        "education": "Trinity University",
+        "notable_achievements": [
+            "Heiress to Walmart fortune"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Bill Gates",
+        "worth": "$90.0B",
+        "birth_year": "1955",
+        "source": "Microsoft",
+        "country": "USA",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/62d599ede3ff49f348f9b9b4/0x0.jpg?format=jpg&crop=821,821,x155,y340,safe&height=416&width=416&fit=bounds",
+        "occupation": "Businessman, Philanthropist",
+        "industry": "Technology",
+        "education": "Harvard University",
+        "notable_achievements": [
+            "Co-founder of Microsoft",
+            "Co-chair of the Bill & Melinda Gates Foundation"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Françoise Bettencourt Meyers & family",
+        "worth": "$88.5B",
+        "birth_year": "1953",
+        "source": "L'Oreal",
+        "country": "France",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/605e26e3c65f7c2596bd3e15/0x0.jpg?format=jpg&crop=1080,1080,x0,y0,safe&height=416&width=416&fit=bounds",
+        "occupation": "Businesswoman",
+        "industry": "Cosmetics",
+        "education": "University of Paris",
+        "notable_achievements": [
+            "Chairwoman of L'Oreal"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Giovanni Ferrero",
+        "worth": "$35.8B",
+        "birth_year": "1964",
+        "source": "Nutella, Chocolates",
+        "country": "Italy",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/5b11bc5ca7ea436b547f29cb/0x0.jpg?format=jpg&crop=1222,1221,x622,y361,safe&height=416&width=416&fit=bounds",
+        "occupation": "Businessman",
+        "industry": "Food and Beverage",
+        "education": "University of Turin",
+        "notable_achievements": [
+            "CEO of Ferrero SpA"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Elon Musk",
+        "worth": "$290.0B",
+        "birth_year": "1971",
+        "source": "Tesla, SpaceX",
+        "country": "USA",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/62d700cd6094d2c180f269b9/0x0.jpg?format=jpg&crop=959,959,x0,y0,safe&height=416&width=416&fit=bounds",
+        "occupation": "Entrepreneur, Engineer, Inventor",
+        "industry": "Automotive, Aerospace",
+        "education": "University of Pennsylvania, Stanford University",
+        "notable_achievements": [
+            "CEO of SpaceX",
+            "CEO of Tesla, Inc.",
+            "CEO of Neuralink",
+            "CEO of Boring Company",
+            "Co-founder of PayPal"]
+    },
+    {
+        "id": 6,
+        "name": "Larry Page",
+        "worth": "$111.0B",
+        "birth_year": "1973",
+        "source": "Google",
+        "country": "USA",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/5c76bcaaa7ea43100043c836/0x0.jpg?format=jpg&crop=1795,1795,x227,y22,safe&height=416&width=416&fit=bounds",
+        "occupation": "Entrepreneur",
+        "industry": "Technology",
+        "education": "Stanford University",
+        "notable_achievements": [
+            "Co-founder of Google"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Len Blavatnik",
+        "worth": "$38.5B",
+        "birth_year": "1957",
+        "source": "Access Industries",
+        "country": "United Kingdom",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/5c745d7b4bbe6f072958dac9/0x0.jpg?format=jpg&crop=1630,1630,x473,y123,safe&height=416&width=416&fit=bounds",
+        "occupation": "Businessman",
+        "industry": "Diversified Investments",
+        "education": "Harvard University",
+        "notable_achievements": [
+            "Founder of Access Industries"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "MacKenzie Scott",
+        "worth": "$62.0B",
+        "birth_year": "1970",
+        "source": "Amazon, Investments",
+        "country": "USA",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/63325f33de0e387de2dd5389/0x0.jpg?format=jpg&crop=1080,1080,x0,y0,safe&height=416&width=416&fit=bounds",
+        "occupation": "Author, Philanthropist",
+        "industry": "Technology",
+        "education": "Princeton University",
+        "notable_achievements": [
+            "Ex-wife of Jeff Bezos"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Mark Zuckerberg",
+        "worth": "$71.0B",
+        "birth_year": "1984",
+        "source": "Facebook",
+        "country": "USA",
+        "image": "https://specials-images.forbesimg.com/imageserve/59d5062131358e542c034eb7/200x200.jpg?background=000000&cropX1=419&cropX2=1409&cropY1=53&cropY2=1044"
+    },
+    {
+        "id": 10,
+        "name": "Michael Bloomberg",
+        "worth": "$50.0B",
+        "birth_year": "1942",
+        "source": "Bloomberg",
+        "country": "USA",
+        "image": "https://specials-images.forbesimg.com/imageserve/58c1d278a7ea431f321add1f/200x200.jpg?background=000000&cropX1=0&cropX2=744&cropY1=40&cropY2=784"
+    },
+    {
+        "id": 11,
+        "name": "Michael Dell",
+        "worth": "$47.1B",
+        "birth_year": "1965",
+        "source": "Dell Technologies",
+        "country": "USA",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/615c93f9da61f2ff5b9ecf9b/0x0.jpg?format=jpg&crop=1678,1679,x0,y118,safe&height=416&width=416&fit=bounds",
+        "occupation": "Entrepreneur",
+        "industry": "Technology",
+        "education": "University of Texas at Austin",
+        "notable_achievements": [
+            "Founder and CEO of Dell Technologies"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Mukesh Ambani",
+        "worth": "$90.0B",
+        "birth_year": "1957",
+        "source": "Reliance Industries",
+        "country": "India",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/5c7d7829a7ea434b351ba0b6/0x0.jpg?format=jpg&crop=1837,1839,x206,y250,safe&height=416&width=416&fit=bounds",
+        "occupation": "Businessman",
+        "industry": "Oil, Telecommunications",
+        "education": "University of Mumbai",
+        "notable_achievements": [
+            "Chairman and largest shareholder of Reliance Industries"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Pang Kang",
+        "worth": "$32.1B",
+        "birth_year": "1963",
+        "source": "Batteries",
+        "country": "China",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/61a52212402ed8086d7a1ac9/0x0.jpg?format=jpg&crop=800,800,x0,y0,safe&height=416&width=416&fit=bounds",
+        "occupation": "Businessman",
+        "industry": "Battery Manufacturing",
+        "education": "N/A",
+        "notable_achievements": [
+            "Founder of Eve Energy"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Ray Dalio",
+        "worth": "$20.3B",
+        "birth_year": "1949",
+        "source": "Hedge funds",
+        "country": "USA",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/5ac959f74bbe6f2310f1e05c/0x0.jpg?format=jpg&crop=2549,2547,x657,y80,safe&height=416&width=416&fit=bounds",
+        "occupation": "Investor",
+        "industry": "Finance",
+        "education": "Harvard University",
+        "notable_achievements": [
+            "Founder of Bridgewater Associates"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Robin Zeng",
+        "worth": "$37.0B",
+        "birth_year": "1968",
+        "source": "Battery Making",
+        "country": "China",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/654962ab9076bbbc6b520e65/0x0.jpg?format=jpg&crop=1373,1372,x934,y177,safe&height=416&width=416&fit=bounds",
+        "occupation": "Entrepreneur",
+        "industry": "Battery Manufacturing",
+        "education": "N/A",
+        "notable_achievements": [
+            "Founder of Contemporary Amperex Technology"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Sergey Brin",
+        "worth": "$110.0B",
+        "birth_year": "1973",
+        "source": "Google",
+        "country": "USA",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/5c7d7c254bbe6f78090d831f/0x0.jpg?format=jpg&crop=2412,2414,x475,y168,safe&height=416&width=416&fit=bounds",
+        "occupation": "Entrepreneur",
+        "industry": "Technology",
+        "education": "Stanford University",
+        "notable_achievements": [
+            "Co-founder of Google"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Steve Ballmer",
+        "worth": "$101.0B",
+        "birth_year": "1956",
+        "source": "Microsoft",
+        "country": "USA",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/59d50c47a7ea436b47b36d66/0x0.jpg?format=jpg&crop=2387,2386,x553,y322,safe&height=416&width=416&fit=bounds",
+        "occupation": "Businessman",
+        "industry": "Technology",
+        "education": "Harvard University",
+        "notable_achievements": [
+            "Former CEO of Microsoft"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Steve Schwarzman",
+        "worth": "$47.8B",
+        "birth_year": "1947",
+        "source": "Blackstone Group",
+        "country": "USA",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/5d89f4d318444200084e5265/0x0.jpg?format=jpg&crop=3394,3392,x1911,y26,safe&height=416&width=416&fit=bounds",
+        "occupation": "Investor",
+        "industry": "Finance",
+        "education": "Harvard University",
+        "notable_achievements": [
+            "Co-founder of Blackstone Group"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Susanne Klatten",
+        "worth": "$28.5B",
+        "birth_year": "1962",
+        "source": "BMW, Pharmaceuticals",
+        "country": "Germany",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/605e281e4f49584f571c9c42/0x0.jpg?format=jpg&crop=1080,1080,x0,y0,safe&height=416&width=416&fit=bounds",
+        "occupation": "Businesswoman",
+        "industry": "Automotive, Pharmaceuticals",
+        "education": "University of Buckingham",
+        "notable_achievements": [
+            "Heiress to BMW fortune"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Tadashi Yanai & family",
+        "worth": "$50.1B",
+        "birth_year": "1949",
+        "source": "Retail",
+        "country": "Japan",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/629e5b3c7d9ce19405b62126/0x0.jpg?format=jpg&crop=3133,3129,x449,y90,safe&height=416&width=416&fit=bounds",
+        "occupation": "Businessman",
+        "industry": "Retail",
+        "education": "N/A",
+        "notable_achievements": [
+            "Founder of Fast Retailing"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Qin Yinglin & family",
+        "worth": "$28.4B",
+        "birth_year": "1965",
+        "source": "pig breeding",
+        "country": "China",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/a3722ff48b63420aa857d7c876d5c521/0x0.jpg?format=jpg&crop=726,727,x18,y34,safe&height=416&width=416&fit=bounds",
+        "occupation": "Businessman",
+        "industry": "Agriculture",
+        "education": "N/A",
+        "notable_achievements": [
+            "Founder of Muyuan Foodstuff"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Ren Zhengfei & family",
+        "worth": "$20.6B",
+        "birth_year": "1944",
+        "source": "telecom equipment",
+        "country": "China",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/5e78e3e610380d0006fbd725/0x0.jpg?format=jpg&crop=2543,2542,x569,y290,safe&height=416&width=416&fit=bounds",
+        "occupation": "Businessman",
+        "industry": "Telecommunications",
+        "education": "Chongqing University",
+        "notable_achievements": [
+            "Founder of Huawei"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Richard Liu",
+        "worth": "$23.5B",
+        "birth_year": "1973",
+        "source": "e-commerce",
+        "country": "China",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/5dc07d07b4d505000678de32/0x0.jpg?format=jpg&crop=2257,2257,x1730,y632,safe&height=416&width=416&fit=bounds",
+        "occupation": "Entrepreneur",
+        "industry": "E-commerce",
+        "education": "Renmin University of China",
+        "notable_achievements": [
+            "Founder and CEO of JD.com"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Robert Pera",
+        "worth": "$19.9B",
+        "birth_year": "1978",
+        "source": "wireless networking gear",
+        "country": "USA",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/5f1f2df0e0da1e7313d9879a/0x0.jpg?format=jpg&crop=908,909,x217,y71,safe&height=416&width=416&fit=bounds",
+        "occupation": "Entrepreneur",
+        "industry": "Technology",
+        "education": "University of California, San Diego",
+        "notable_achievements": [
+            "Founder and CEO of Ubiquiti Networks"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Alice Schwartz",
+        "worth": "$8.9B",
+        "birth_year": "1960",
+        "source": "Biotech",
+        "country": "USA",
+        "image": "https://thumbor.forbes.com/thumbor/75x0/i.forbesimg.com/media/assets/logos/f-gray.png",
+        "occupation": "Businesswoman",
+        "industry": "Biotechnology",
+        "education": "Harvard University",
+        "notable_achievements": [
+            "Founder of Biotech Innovations"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Roman Abramovich",
+        "worth": "$15.1B",
+        "birth_year": "1966",
+        "source": "steel, investments",
+        "country": "Russia",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/62291a5d0ec641a4c77a7528/0x0.jpg?format=jpg&crop=2199,2198,x615,y7,safe&height=416&width=416&fit=bounds",
+        "occupation": "Businessman",
+        "industry": "Steel, Investments",
+        "education": "Moscow State University",
+        "notable_achievements": [
+            "Owner of Chelsea FC"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Donald Trump",
+        "worth": "$2.4B",
+        "birth_year": "1946",
+        "source": "Real Estate, Reality Television",
+        "country": "USA",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/5638e53de4b0ffa7afe6a26a/0x0.jpg?format=jpg&crop=704,704,x27,y32,safe&height=416&width=416&fit=bounds",
+        "occupation": "Businessman, Television Personality, Politician",
+        "industry": "Real Estate, Entertainment",
+        "education": "University of Pennsylvania",
+        "notable_achievements": [
+            "45th President of the United States",
+            "Founder of the Trump Organization"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Abigail Johnson",
+        "worth": "$16.5B",
+        "birth_year": "1961",
+        "source": "Fidelity Investments",
+        "country": "USA",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6333a5b13de1fff2da377afb/0x0.jpg?format=jpg&crop=1077,1077,x0,y3,safe&height=416&width=416&fit=bounds",
+        "occupation": "Businesswoman",
+        "industry": "Finance",
+        "education": "Harvard Business School",
+        "notable_achievements": [
+        "Chairwoman and CEO of Fidelity Investments"
+        ]
+        },
+    {
+        "id": 29,
+        "name": "Shiv Nadar",
+        "worth": "$20.4B",
+        "birth_year": "1945",
+        "source": "software services",
+        "country": "India",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/605e2b0c7cd0a7025abd3e15/0x0.jpg?format=jpg&crop=1080,1080,x0,y0,safe&height=416&width=416&fit=bounds",
+        "occupation": "Businessman",
+        "industry": "Technology",
+        "education": "PSG College of Technology",
+        "notable_achievements": [
+            "Founder of HCL"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Warren Buffett",
+        "worth": "$101.0B",
+        "birth_year": "1930",
+        "source": "Berkshire Hathaway",
+        "country": "USA",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/5babb7f1a7ea4342a948b79a/0x0.jpg?format=jpg&crop=2327,2329,x748,y1753,safe&height=416&width=416&fit=bounds",
+        "occupation": "Investor",
+        "industry": "Finance",
+        "education": "University of Pennsylvania",
+        "notable_achievements": [
+            "Chairman and CEO of Berkshire Hathaway"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Larry Ellison",
+        "worth": "$57.0B",
+        "birth_year": "1945",
+        "source": "Sun, Oracle",
+        "country": "USA",
+        "image": "https://specials-images.forbesimg.com/imageserve/59d5069b31358e542c034ec1/200x200.jpg?background=000000&cropX1=0&cropX2=2000&cropY1=227&cropY2=2228"
+    }
+]

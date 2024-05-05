@@ -1,0 +1,79 @@
+main {
+    background-color: rgb(0, 0, 71);
+}
+
+main .container {
+    min-height: 300px;
+    max-width: 80%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.inform_div {
+    width: 100%;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+}
+
+main .container .box {
+    width: 250px;
+    margin: 14px 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.prophshional {
+    border-radius: 50%;
+    width: 180px;
+    height: 200px;
+}
+
+.box .prophshional:hover {
+    box-shadow: 4px 4px 8px -1px #000000;
+}
+
+.inform_div {
+    width: 100%;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+}
+
+.insprator{
+    Text-align:justify;
+    text-align-last: center;
+    width: 85%;
+}
+
+.Divtable {
+    width: 75%;
+}
+
+
+.relations {
+    width: 60%;
+    margin-bottom: 28px;
+    display: flex;
+}
+
+.box2 {
+    min-height: 100px;
+    margin: 10px;
+}
+
+.unicText {
+    font-family: 'Audiowide', sans-serif;
+    font-family: 'Lobster', sans-serif;
+}
+
+
+@media (max-width:450px)
+{
+    main{
+        background-color:#f8f9fa;
+    }
+}
